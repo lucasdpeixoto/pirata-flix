@@ -19,4 +19,5 @@ h1 {
 }
 #back-button{
     display: none;
+    width: auto;
 }
