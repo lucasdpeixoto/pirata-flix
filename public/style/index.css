@@ -1,0 +1,11 @@
+body {
+    background-image: url("../imagens/planodefundo.png");
+}
+h1 {
+    color: aliceblue;
+    font-family: 'Teko', sans-serif;
+    font-size: 56px;
+}
+.centralizador{
+    text-align: center;
+}
