@@ -6,6 +6,17 @@ h1 {
     font-family: 'Teko', sans-serif;
     font-size: 56px;
 }
-.centralizador{
+.centralizador {
     text-align: center;
+}
+.centralizador-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.videos{
+    display: none;
+}
+#back-button{
+    display: none;
 }
