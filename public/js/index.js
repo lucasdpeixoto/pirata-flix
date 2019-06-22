@@ -1,4 +1,4 @@
-const nerdcast_button = document.querySelector('#nerdcast-button')
+const nerdcast_button = document.querySelector('#go-button')
 const back_button = document.querySelector("#back-button")
 const videos_div = document.querySelector(".videos")
 
