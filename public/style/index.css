@@ -21,3 +21,21 @@ h1 {
     display: none;
     width: auto;
 }
+section{
+    height: 100vh;
+}
+.ladodireito{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: flex-end;
+    }
+.footerstyle{
+    background-color: white;
+    font-family: 'Teko', sans-serif;
+   width: 176px;
+   
+}
+footer{
+    display: block;
+}
